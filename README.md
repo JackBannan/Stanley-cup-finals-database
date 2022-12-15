@@ -1,1 +1,1 @@
-# Stanley-cup-finals-database
+A MySql database of all stanley cup finals matchups including the teams, skaters, goalies, coachs and gametimes from the past 5 finals. This database was created as my final project for the CP363 - Database. To view the database with entries, use the following credentials: Hostname/IP: hopper.wlu.ca User: bann4500 Password: bann2423
